@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e80a8094350a32a48bd5567f4055fbc7, type: 3}
+  m_Name: VoicesAnimals
+  m_EditorClassIdentifier: 
+  inCorrectAnswerRow: 0
+  correctVoice:
+  - {fileID: 8300000, guid: 780ca9527d866c244877a6c2f3e62ea8, type: 3}
+  - {fileID: 8300000, guid: 50a8e740cb31316449422854ca5082a5, type: 3}
+  - {fileID: 8300000, guid: cebcd1545ccdf6540a9ff346b01ca9b5, type: 3}
+  - {fileID: 8300000, guid: 3fac406712a5bd64188238f2776a2a73, type: 3}
+  - {fileID: 8300000, guid: 779e8796b17027f499fe60d0752a915d, type: 3}
+  - {fileID: 8300000, guid: 52f93fd8c2cc1ab44b833495e1556d74, type: 3}
+  - {fileID: 8300000, guid: 7c0e319ab275b7d4fbd169b3e3bc822b, type: 3}
+  inCorrectVoice:
+  - {fileID: 8300000, guid: 7b914df744f62cf45ba09f782398e079, type: 3}
+  - {fileID: 8300000, guid: 9f4376e98109e73489dd795d1f191f5f, type: 3}
+  - {fileID: 8300000, guid: 8d273e841f4471c438af628b0b22f42e, type: 3}
+  - {fileID: 8300000, guid: 870889238ecdd5e41b3c8066c5383f15, type: 3}
+  - {fileID: 8300000, guid: 00377227437ffd64184cb0ff591c091b, type: 3}
+  - {fileID: 8300000, guid: 99f5ac9560fb2604d8672f2263f0b585, type: 3}
+  - {fileID: 8300000, guid: 9dfd677d3710d0949a213ddf8572d5a0, type: 3}
